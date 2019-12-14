@@ -19,7 +19,7 @@
             "bbhkxd\\Helper\\": "src/"
         },
         "files": [
-            "Helper/helper.php"
+            "src/Helper/helper.php"
         ]
     },
     "bin": [
